@@ -1,0 +1,3 @@
+# jomondos_home
+
+Este proyecto se tiene la idea de añadir funcionalidades para la gestión de la casa. Como desactivar la alarma, recordatorios de cuando debo regar mis plantas, tareas domésticas ...
